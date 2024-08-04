@@ -2,5 +2,5 @@ In this notebook, I have applied some basic data analysis, feature engineering, 
 This dataset is fairly simple with only 14 features, meant as a beginner competition.
 This is why I chose this to be my first competition and application of my data science skills so far.
 
-The best score I got so far on the testing data was an accuracy of 0.78887
-
+The best score I got so far on the testing data was an accuracy of 0.80009.
+Currently at 616/2,150 teams
